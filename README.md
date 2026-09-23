@@ -111,3 +111,9 @@ This project strengthened my ability to:
 ## Training Context
 
 This project was developed as part of my QA Engineering training at TripleTen.
+
+## Full Project Documentation
+
+The complete project documentation, including test cases, execution results and defect references, is available here:
+
+[View full Urban Scooter QA project documentation](https://docs.google.com/spreadsheets/d/1lXV_EYO8c00iCs1W1PxL5Nh7ig0xw2ZLSFrXBObMK8U/edit?usp=sharing)
